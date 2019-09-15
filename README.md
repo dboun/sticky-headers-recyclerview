@@ -1,5 +1,4 @@
-This project is no longer being maintained
-==========================================
+(This is the same code from the upstream repo, but updated to use the androidx libraries)
 
 sticky-headers-recyclerview
 ===========================
